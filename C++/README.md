@@ -1,0 +1,3 @@
+# List of C++ books
+
+This is the list of C++ books, this includes Stroustrup C++ book, C++ in a Nutshell, O'Reilly C++ Practical C++, and others...
